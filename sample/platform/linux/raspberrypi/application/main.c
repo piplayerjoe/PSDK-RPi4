@@ -438,7 +438,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_WIDGET
+#ifdef PSDK_USING_WIDGET//if widget using defined , compile together
     if (PsdkTest_WidgetInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("psdk widget init error");
     }

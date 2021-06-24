@@ -84,7 +84,7 @@ static const uint32_t s_widgetHandlerListCount = sizeof(s_widgetHandlerList) / s
 static int32_t s_widgetValueList[sizeof(s_widgetHandlerList) / sizeof(T_PsdkWidgetHandlerListItem)] = {0};
 
 /* Exported functions definition ---------------------------------------------*/
-T_PsdkReturnCode PsdkTest_WidgetInit(void)
+T_PsdkReturnCode PsdkTest_WidgetInit(void)  //init widget module
 {
     T_PsdkReturnCode psdkStat;
 
