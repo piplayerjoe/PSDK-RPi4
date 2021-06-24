@@ -1,0 +1,49 @@
+[3153578.211][module_core]-[32m[Info]-[PsdkCore_Init:76]Payload SDK Version : V2.2.1-beta.0-build.315[0m
+[3153578.718][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153578.718][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153578.718][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153579.729][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153579.729][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153579.729][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153580.740][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153580.740][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153580.740][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153581.751][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153581.751][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153581.751][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153582.762][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153582.762][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153582.762][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153583.773][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153583.773][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153583.773][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153584.774][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153584.774][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153584.774][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153585.775][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153585.775][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153585.775][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153586.776][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153586.776][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153586.776][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153587.777][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153587.777][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153587.777][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153588.778][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153588.778][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153588.778][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153589.779][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153589.779][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153589.779][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153590.780][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153590.780][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153590.780][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153591.781][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153591.781][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153591.782][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153592.783][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153592.783][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153592.783][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[3153593.784][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3153593.784][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[3153593.787][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m

@@ -1,0 +1,1007 @@
+[941290.914][module_core]-[32m[Info]-[PsdkCore_Init:76]Payload SDK Version : V2.2.1-beta.0-build.315[0m
+[941290.925][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941291.424][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941291.424][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941291.424][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941291.932][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941292.431][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941292.431][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941292.431][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941292.939][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941293.438][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941293.438][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941293.438][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941293.946][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941294.445][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941294.445][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941294.445][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941294.953][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941295.452][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941295.452][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941295.452][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941295.960][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941296.459][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941296.459][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941296.459][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941297.466][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941297.466][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941297.466][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941297.975][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941298.473][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941298.474][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941298.474][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941298.981][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941299.480][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941299.480][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941299.480][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941299.988][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941300.487][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941300.487][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941300.487][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941300.995][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941301.493][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941301.493][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941301.494][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941302.002][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941302.500][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941302.500][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941302.500][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941303.008][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941303.507][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941303.507][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941303.507][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941304.015][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941304.513][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941304.513][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941304.514][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941305.022][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941305.520][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941305.520][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941305.520][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941306.028][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[941306.527][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941306.528][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941306.532][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941307.037][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[941307.543][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[941307.543][module_command]-[31m[Error]-[PsdkCommand_SendSync:338]sendSync callback timeout[0m
+[941307.543][module_core]-[31m[Error]-[PsdkCore_WaitAdapterConnection:241]Can't connect to Skyport V2 or X-Port. Probably because PSDK Adapter not power on, PSDK Adapter not finish init or UART connect error. Please check PSDK Adapter connection, UART configuration and UART connection[0m
+[941308.271][module_core]-[32m[Info]-[PsdkCore_WaitAdapterConnection:234]Connect to Skyport V2 or X-Port success[0m
+[941308.281][module_core]-[32m[Info]-[PsdkCore_PrintAdapterSerialNumber:278]Get serial number of Skyport V2 or X-Port is 39CDH6P0010077[0m
+[941308.282][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941308.302][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetAircraftTypeAsyncCallback:406]aircraft type is unknown: 0.[0m
+[941308.302][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_GetDevelopmentKitTypeAsyncCallback:483]PSDK adapter type is Skyport V2.[0m
+[941309.282][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941309.284][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 65535, cmdSet = 60, cmdId = 64[0m
+[941310.282][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941310.326][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_GetAircraftTypeAsyncCallback:402]aircraft type is Matrice 300 RTK.[0m
+[941311.282][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941312.282][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941312.350][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:582]This payload is mounted on NO.1 gimbal connector.[0m
+[941313.283][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941314.283][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941315.283][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941316.283][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941317.283][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941318.284][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941319.284][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[941320.284][module_core]-[32m[Info]-[PsdkCore_Init:133]PSDK policy file update success.[0m
+[941320.784][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[941320.784][module_core]-[32m[Info]-[PsdkCore_Init:156]Aircraft is Matrice 300 RTK, PSDK adapter is Skyport V2, this payload is mounted on NO.1 gimbal connector.[0m
+[941320.784][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_Init:138]Waiting payload negotiate finish.[0m
+[941321.785][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_Init:138]Waiting payload negotiate finish.[0m
+[941321.976][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_VersionHandle:293]Payload negotiate use dynamic ip config[0m
+[941322.402][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_NotifyHandle:564]uav ip addr:192.168.110.1[0m
+[941322.785][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_Init:155]Payload negotiate has finished.[0m
+[23.143][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_RemoveDeviceSync:252]waiting payload negotiate finish.[0m
+[24.149][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_RemoveDeviceSync:252]waiting payload negotiate finish.[0m
+[24.255][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_VersionHandle:293]Payload negotiate use dynamic ip config[0m
+[24.519][module_nego]-[32m[Info]-[PsdkPayloadNegotiate_NotifyHandle:564]uav ip addr:192.168.110.1[0m
+[25.144][module_user]-[32m[Info]- get video stream remote address:192.168.110.1_23003[0m
+[27.150][module_user]-[32m[Info]- get data stream remote address: 192.168.110.1_23002[0m
+[27.180][module_subscription]-[32m[Info]-[PsdkDataSubscription_ResetPublisherDb2AsyncCallback:1616]reset publisher success.[0m
+[27.433][module_subscription]-[32m[Info]-[PsdkDataSubscription_RegTopicSync:603]Subscribe topic success.[0m
+[27.454][module_subscription]-[32m[Info]-[PsdkDataSubscription_RegTopicSync:603]Subscribe topic success.[0m
+[27.637][module_user]-[32m[Info]- stop continuous optical zoom[0m
+[27.991][module_subscription]-[32m[Info]-[PsdkDataSubscription_RegTopicSync:603]Subscribe topic success.[0m
+[29.093][module_subscription]-[32m[Info]-[PsdkDataSubscription_RegTopicSync:603]Subscribe topic success.[0m
+[29.107][module_upgrade]-[32m[Info]-[PsdkUpgrade_Init:109]Upgrade transfer type is ftp, ftp port = 21[0m
+[29.107][module_upgrade]-[32m[Info]-[PsdkUpgrade_EnableLocalUpgrade:118]Enable local upgrade[0m
+[29.108][module_core]-[32m[Info]-[PsdkCore_ApplicationStart:199]Start application now.[0m
+[39.426][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_NotifyMobileAppInfoHandle:621]Set mobile app info, language is Chinese, screen type is Big Screen[0m
+[39.920][module_timesync]-[32m[Info]-[PsdkTimeSync_PushAppTimeHandle:90]current time: 2021.6.23 17:3 1.[0m
+[41.599][module_downloader]-[33m[Warn]-[PsdkDataDownloader_SendDataUpdate:569]Psdk Camera Get App File Send Ack TimeOut[0m
+[51.607][module_downloader]-[33m[Warn]-[PsdkDataDownloader_SendDataUpdate:569]Psdk Camera Get App File Send Ack TimeOut[0m
+[52.479][module_user]-[32m[Info]- set focus target x:0.50 y:0.50[0m
+[61.561][module_downloader]-[33m[Warn]-[PsdkDataDownloader_SendDataUpdate:569]Psdk Camera Get App File Send Ack TimeOut[0m
+[172.238][module_user]-[32m[Info]- set camera mode:1[0m
+[172.238][module_user]-[32m[Info]- start record video[0m
+[174.145][module_user]-[32m[Info]- set camera mode:1[0m
+[174.146][module_user]-[32m[Info]- stop record video[0m
+[174.990][module_user]-[32m[Info]- set camera mode:1[0m
+[174.990][module_user]-[32m[Info]- start record video[0m
+[175.976][module_user]-[32m[Info]- set camera mode:1[0m
+[175.977][module_user]-[32m[Info]- stop record video[0m
+[176.835][module_user]-[32m[Info]- set camera mode:1[0m
+[176.835][module_user]-[32m[Info]- start record video[0m
+[177.503][module_user]-[32m[Info]- set camera mode:1[0m
+[177.503][module_user]-[32m[Info]- stop record video[0m
+[196.142][module_powermanagement]-[32m[Info]-[PsdkPowerManagement_RebootDeviceHandle:214]payload is ready to power off.[0m
+[196.143][module_powermanagement]-[32m[Info]-[PsdkPowerManagement_RebootDeviceHandle:214]payload is ready to power off.[0m
+[196.153][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.153][module_command]-[33m[Warn]-[PsdkCommand_DealCmd:732]received invalid ack, sender: cmdset: 0x00 cmdid: 0x0B[0m
+[196.153][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.164][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.166][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.177][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.177][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.188][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.190][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.200][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.212][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.224][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.235][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.236][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.247][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.258][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.269][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.270][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.280][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x79CC cur:0x19CC[0m
+[196.280][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.291][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.291][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.292][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.292][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.303][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xA013 cur:0xA8DD[0m
+[196.313][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.314][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.324][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3ADA cur:0xFBB4[0m
+[196.324][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.356][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.357][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.357][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xA81C cur:0xAF67[0m
+[196.357][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.368][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.379][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.390][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.390][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF045 cur:0xE3ED[0m
+[196.391][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.391][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.391][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.392][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.392][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1BF5 cur:0xDF55[0m
+[196.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.414][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.435][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.456][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.467][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.467][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.468][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDB27 cur:0x552F[0m
+[196.469][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.490][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.491][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.501][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x08FE cur:0x6349[0m
+[196.501][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.502][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.502][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.502][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.513][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xBB38 cur:0x9969[0m
+[196.513][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.534][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.544][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.545][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.556][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.566][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.566][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.577][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.578][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.578][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC19C cur:0xE56F[0m
+[196.578][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.579][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.590][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC9AB cur:0xECF1[0m
+[196.590][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.590][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.591][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.611][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.612][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.612][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.612][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1DC6 cur:0x9055[0m
+[196.613][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.623][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.634][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.655][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.655][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.676][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.687][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.688][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x4B3B cur:0x55CC[0m
+[196.699][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.699][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1AB0 cur:0x9F33[0m
+[196.700][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.720][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.721][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xB670 cur:0xF89F[0m
+[196.721][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.721][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.721][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.722][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x93B0 cur:0x8C76[0m
+[196.732][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3DA8 cur:0xE11B[0m
+[196.732][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x7D0A cur:0x40FC[0m
+[196.753][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.753][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.753][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.763][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.764][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.764][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.774][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.775][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.775][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.795][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.796][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.796][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.797][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.798][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.808][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.809][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.809][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x804B cur:0x9BB7[0m
+[196.809][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.820][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.830][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.831][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1744 cur:0x99AF[0m
+[196.831][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.831][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.831][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.832][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.842][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5060 cur:0x6FFA[0m
+[196.842][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.853][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x67E8 cur:0x1159[0m
+[196.863][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.863][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.874][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF044 cur:0x7FE0[0m
+[196.874][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.874][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.874][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.884][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.885][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.906][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.906][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.907][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.907][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.918][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.919][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.919][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.940][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.941][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC00D cur:0x559F[0m
+[196.941][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.941][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.941][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[196.952][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9246 cur:0xA345[0m
+[196.952][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.952][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.952][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.973][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5407 cur:0xB3C9[0m
+[196.973][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.974][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.984][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[196.985][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.985][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[196.995][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[196.995][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[197.016][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.018][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.021][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.032][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x84D0 cur:0xDFF6[0m
+[197.032][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.053][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.055][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.055][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.056][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.056][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.066][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[197.067][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[197.098][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[197.098][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[197.109][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[197.109][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[197.190][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[197.190][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[197.201][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[197.201][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[197.211][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[197.211][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[198.117][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[198.117][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[199.133][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[199.133][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[200.124][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 0, cmdId = 88[0m
+[200.155][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[200.155][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[200.320][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.321][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDD2A cur:0xCA39[0m
+[200.331][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.333][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xECEF cur:0xECE7[0m
+[200.343][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.345][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.355][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD4A5 cur:0x390F[0m
+[200.366][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.367][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.378][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.389][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.391][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.402][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.403][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.424][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.425][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.436][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC52C cur:0xCF16[0m
+[200.448][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.449][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.450][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.461][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.462][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.483][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.484][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x464E cur:0x460E[0m
+[200.485][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.495][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9840 cur:0x0032[0m
+[200.506][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.517][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.528][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.540][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.551][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.553][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x7392 cur:0x55D4[0m
+[200.564][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x8D8E cur:0x8186[0m
+[200.564][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3D11 cur:0x1670[0m
+[200.565][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.565][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[200.576][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xB1CC cur:0x1ECE[0m
+[200.587][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.598][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.609][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.631][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.632][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x29DA cur:0x8C74[0m
+[200.643][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.664][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.665][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC91A cur:0xBA84[0m
+[200.666][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[200.677][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.688][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.709][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.731][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.731][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.742][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.743][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.745][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x70F3 cur:0x1E00[0m
+[200.755][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x25C5 cur:0xB0B3[0m
+[200.755][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5C2D cur:0xD192[0m
+[200.766][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.777][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6EC8 cur:0x67F1[0m
+[200.777][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[200.789][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.810][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.821][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.832][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.843][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.854][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEA35 cur:0xB5AA[0m
+[200.864][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF12C cur:0xCF45[0m
+[200.885][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.886][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1C1F cur:0x5500[0m
+[200.897][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.908][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.929][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.930][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[200.931][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[200.941][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[200.941][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[200.952][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.963][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.964][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE3B9 cur:0xD05F[0m
+[200.964][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[200.976][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1120 cur:0x8D90[0m
+[200.987][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[200.997][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.010][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.010][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.032][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.032][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.032][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.043][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.044][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.044][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.045][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.055][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.055][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.066][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.077][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xBB5E cur:0x6B48[0m
+[201.087][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC948 cur:0xB4D5[0m
+[201.088][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6C0C cur:0xCD82[0m
+[201.108][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.120][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.131][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.142][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 2, retryTimes = 1, cmdSet = 0, cmdId = 88[0m
+[201.146][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.146][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.157][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.157][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.158][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.159][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.169][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.170][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.170][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.191][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.193][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x792F cur:0x0104[0m
+[201.203][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEE9B cur:0xA454[0m
+[201.203][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x84BB cur:0x6E06[0m
+[201.224][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.225][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x4EA8 cur:0x5593[0m
+[201.236][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3FF4 cur:0x9B64[0m
+[201.247][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.258][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.258][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.269][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.270][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.270][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.281][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.281][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.291][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.302][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.304][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC018 cur:0x30F1[0m
+[201.304][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[201.315][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD96E cur:0x37EB[0m
+[201.326][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.337][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.338][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[201.349][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.360][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.361][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.371][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.372][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.372][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.382][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.393][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.394][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.394][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.405][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.416][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x14D5 cur:0xE56D[0m
+[201.426][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x8E27 cur:0xB55C[0m
+[201.426][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[201.448][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.470][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.481][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.481][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.492][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.492][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.493][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.493][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.504][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.504][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.505][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.525][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF6BB cur:0x55BC[0m
+[201.527][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6403 cur:0x64FB[0m
+[201.537][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x55A1 cur:0x31D6[0m
+[201.548][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.548][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x76C9 cur:0xC193[0m
+[201.559][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.560][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x0904 cur:0xBFDD[0m
+[201.571][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.592][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.592][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.593][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.603][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.604][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.604][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.615][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.615][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.616][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.626][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.637][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.639][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.640][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x046F cur:0x0494[0m
+[201.651][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2ED7 cur:0x524D[0m
+[201.651][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x345A cur:0xCA25[0m
+[201.672][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.673][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x8ACC cur:0x8A4C[0m
+[201.673][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.684][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1FE7 cur:0xB0C2[0m
+[201.684][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9519 cur:0x0001[0m
+[201.685][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.685][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.706][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.707][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.707][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.718][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.719][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.719][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.730][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.730][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.731][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.752][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.753][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xABF5 cur:0x85D2[0m
+[201.754][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[201.765][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEDCF cur:0x2B77[0m
+[201.766][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDF47 cur:0xC05B[0m
+[201.786][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.787][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDC0C cur:0x55A5[0m
+[201.799][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.820][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.820][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.831][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.832][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.832][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.842][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.843][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.853][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.853][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.864][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.865][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.877][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x74BC cur:0x193C[0m
+[201.877][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.889][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.900][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.901][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC06F cur:0xFC6F[0m
+[201.901][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x7161 cur:0x4F38[0m
+[201.911][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.912][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.933][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.934][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.944][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.945][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.945][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.955][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.955][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[201.955][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[201.966][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[201.976][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x08F6 cur:0x826B[0m
+[201.987][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5C61 cur:0x8ABA[0m
+[201.987][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[201.988][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xB936 cur:0x8916[0m
+[202.009][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.009][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x0AA2 cur:0x1CA8[0m
+[202.020][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.031][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.041][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.041][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.051][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.052][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x22B7 cur:0x1B66[0m
+[202.052][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.052][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.063][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.063][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.073][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.084][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.085][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC0FF cur:0x05C9[0m
+[202.095][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6136 cur:0x20C5[0m
+[202.116][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.116][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDECC cur:0x714B[0m
+[202.127][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.128][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.149][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.150][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.150][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.160][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.161][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 3, retryTimes = 1, cmdSet = 0, cmdId = 88[0m
+[202.162][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.162][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.172][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.172][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.173][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.173][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.194][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.195][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xCD5F cur:0x4BF4[0m
+[202.206][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6E0D cur:0xC85E[0m
+[202.207][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE7FF cur:0xA767[0m
+[202.207][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD4A0 cur:0x2B5D[0m
+[202.228][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.229][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xAB8C cur:0xF8D4[0m
+[202.239][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.240][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.251][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.262][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.262][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.272][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.273][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x55AD cur:0xC0C9[0m
+[202.274][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.274][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.284][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[202.285][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[202.295][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.306][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.307][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2C82 cur:0x51C8[0m
+[202.318][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xBBD1 cur:0x6367[0m
+[202.318][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x8089 cur:0x8B48[0m
+[202.328][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.339][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.350][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.352][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.352][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.372][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.373][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.373][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.383][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.384][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.384][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.395][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.395][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.395][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.406][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.417][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.419][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.430][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x35C9 cur:0x15D8[0m
+[202.430][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xABB4 cur:0xA9B4[0m
+[202.430][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.451][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.452][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x0EA5 cur:0x23CB[0m
+[202.452][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE41F cur:0x296C[0m
+[202.452][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.463][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF25E cur:0x2E4C[0m
+[202.473][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.494][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.495][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.495][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.495][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.506][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.506][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.516][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.527][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEE7F cur:0xA5E3[0m
+[202.537][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x0ECD cur:0x6A04[0m
+[202.537][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.538][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xCC44 cur:0xE80C[0m
+[202.538][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.549][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.550][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.550][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.561][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD223 cur:0x8ABD[0m
+[202.561][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD02D cur:0xD025[0m
+[202.562][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x8AB5 cur:0xA20B[0m
+[202.572][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.573][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.594][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.595][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.595][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.605][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.606][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.616][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.617][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.617][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.638][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.639][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3BC5 cur:0x3FC2[0m
+[202.650][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x79A1 cur:0xA6DB[0m
+[202.650][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.650][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.672][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.672][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDFDA cur:0xC3DA[0m
+[202.673][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD75E cur:0xCDF8[0m
+[202.673][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x048A cur:0x29E4[0m
+[202.673][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.684][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9684 cur:0x7E12[0m
+[202.694][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.705][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.705][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.716][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.717][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.717][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.717][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.728][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.728][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.738][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.749][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.751][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.752][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x18A8 cur:0x0ADF[0m
+[202.752][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x18D0 cur:0x169A[0m
+[202.763][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD208 cur:0x028E[0m
+[202.773][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.784][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC451 cur:0x55C5[0m
+[202.795][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1C3B cur:0x544F[0m
+[202.796][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.807][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.807][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.817][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.817][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.817][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.828][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.839][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.839][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.839][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.860][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.861][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x56FB cur:0x2D51[0m
+[202.872][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEBDB cur:0xE192[0m
+[202.892][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.893][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC5C4 cur:0x73CF[0m
+[202.893][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.905][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9460 cur:0x9420[0m
+[202.915][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.916][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.916][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.926][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.927][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.937][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.938][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.938][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.948][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[202.948][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[202.959][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.959][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.970][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.971][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[202.972][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDAA2 cur:0x8408[0m
+[202.972][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5E55 cur:0xCC51[0m
+[202.983][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xF346 cur:0x2003[0m
+[202.983][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[202.993][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.004][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1D48 cur:0x5094[0m
+[203.004][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xA789 cur:0x3E55[0m
+[203.015][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.016][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.016][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.016][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.027][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.027][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.037][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.038][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.038][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.059][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.059][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.059][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.080][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.082][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5F5E cur:0x2BF2[0m
+[203.092][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x1249 cur:0xF826[0m
+[203.092][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x858F cur:0x77D7[0m
+[203.113][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.113][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDC4B cur:0x1C4B[0m
+[203.114][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[203.124][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEBD9 cur:0x08A2[0m
+[203.125][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xB9F0 cur:0x81F0[0m
+[203.135][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.145][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.145][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.156][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.157][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.157][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.157][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.167][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.167][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.178][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.188][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.190][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC574 cur:0x9E18[0m
+[203.200][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x53A8 cur:0x6360[0m
+[203.200][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x29EE cur:0x0006[0m
+[203.221][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.222][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9A13 cur:0x9A11[0m
+[203.222][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEAC1 cur:0x4357[0m
+[203.232][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.233][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.243][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.244][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.254][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.254][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.254][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.275][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.275][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.275][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.296][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.298][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xDBC2 cur:0xD263[0m
+[203.298][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x0606 cur:0x8153[0m
+[203.299][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[203.311][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5963 cur:0x7038[0m
+[203.321][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.332][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.333][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xBE2B cur:0xA70C[0m
+[203.333][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x01F2 cur:0x39E3[0m
+[203.333][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xAC4C cur:0x5552[0m
+[203.344][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xBA3D cur:0x105A[0m
+[203.354][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.365][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.365][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.376][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.377][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.377][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.377][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.388][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.388][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.398][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.399][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[203.399][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[203.409][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.410][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2AB6 cur:0x45C4[0m
+[203.411][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2156 cur:0xB06C[0m
+[203.421][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xB4AB cur:0x0102[0m
+[203.421][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2FE9 cur:0x6F00[0m
+[203.441][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.442][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x5064 cur:0x083C[0m
+[203.442][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD4AF cur:0x5523[0m
+[203.453][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.463][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.463][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.473][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.474][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.474][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.484][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9753 cur:0x7648[0m
+[203.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.495][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.495][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.495][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.516][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x537D cur:0xD323[0m
+[203.517][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2ACA cur:0x8E00[0m
+[203.527][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6855 cur:0x955B[0m
+[203.528][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x05E2 cur:0x3A73[0m
+[203.538][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x977A cur:0x08CB[0m
+[203.549][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.561][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.582][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.582][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.582][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.593][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.594][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.595][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.595][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.605][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.605][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.616][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.638][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE237 cur:0xFFC4[0m
+[203.659][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.660][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.661][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x74A6 cur:0x9510[0m
+[203.671][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.682][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.693][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.693][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.704][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.704][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x78A4 cur:0xBE12[0m
+[203.705][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.705][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.715][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.715][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.715][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.736][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.737][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE7CB cur:0x1017[0m
+[203.747][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x57A3 cur:0xA4D3[0m
+[203.758][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.768][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.779][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.801][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.801][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.801][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.811][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.812][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.812][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.823][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.823][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.823][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.844][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.845][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x547D cur:0x0642[0m
+[203.855][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x6183 cur:0x6221[0m
+[203.855][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[203.877][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.888][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.898][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.909][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.909][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.919][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.920][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.920][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.931][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[203.931][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[203.951][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.953][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE0FD cur:0x2438[0m
+[203.953][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[203.965][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD990 cur:0x0392[0m
+[203.965][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[203.976][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.987][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.999][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[203.999][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.021][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.021][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.021][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.032][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.033][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.033][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.044][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.055][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.055][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.055][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.066][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x402C cur:0xDE96[0m
+[204.077][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x44E1 cur:0xA947[0m
+[204.087][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3E92 cur:0x1012[0m
+[204.088][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x495C cur:0x4BE9[0m
+[204.098][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.110][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.121][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.132][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.132][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.142][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.143][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 2[0m
+[204.143][module_timesync]-[33m[Warn]-[PsdkTimeSync_SyncWithFcASyncCallback:160]timesync from FC timeout[0m
+[204.154][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.154][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.165][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.175][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.178][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x43DE cur:0x0E32[0m
+[204.199][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.199][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE2B3 cur:0x12F6[0m
+[204.210][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xEE0D cur:0x009A[0m
+[204.220][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.221][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x3B7F cur:0x4020[0m
+[204.231][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.231][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.241][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.242][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.242][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.252][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.253][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.253][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.263][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.263][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.263][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.284][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.285][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.297][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x58EC cur:0x4836[0m
+[204.297][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[204.298][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xE2B6 cur:0x6FE3[0m
+[204.298][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 0, cmdId = 88[0m
+[204.308][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.320][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.321][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[204.321][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x142A cur:0x5438[0m
+[204.331][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.342][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9A47 cur:0xA003[0m
+[204.353][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.353][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.363][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.364][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.364][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.364][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.374][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.375][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.385][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.395][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.397][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[204.398][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xD4E5 cur:0x7C3D[0m
+[204.408][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x308D cur:0xFA62[0m
+[204.419][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.429][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.441][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.441][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.441][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.462][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.462][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.462][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.473][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.473][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.473][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.484][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.484][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.505][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.506][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[204.507][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[204.507][module_nego]-[33m[Warn]-[PsdkPayloadNegotiate_CheckPingStatusASyncCallback:650]connect status async timeout[0m
+[204.518][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x9D85 cur:0x820A[0m
+[204.518][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.539][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.540][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.550][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.551][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.562][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.572][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.572][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.583][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.583][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2A64 cur:0x8B1E[0m
+[204.584][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.584][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.594][module_flowcontroller]-[31m[Error]-[PsdkFlowController_TryPutDataToBuffer:785]put data to buffer error: 0x00000102.[0m
+[204.594][module_flowcontroller]-[31m[Error]-[PsdkFlowController_SendData:353]try to put data to buffer error: 0x00000102.[0m
+[204.604][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.604][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x2CCA cur:0x28B7[0m
+[204.615][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.615][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.616][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:577]protocol frame crc8 error[0m
+[204.617][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x43BB cur:0x196B[0m
+[204.628][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0x4F23 cur:0x6126[0m
+[204.628][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:588]protocol frame crc16 error, exp:0xC7C9 cur:0x905B[0m
+[204.638][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.638][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m
+[204.649][module_command]-[33m[Warn]-[PsdkCommand_ProtParse:568]protocol frame length error[0m

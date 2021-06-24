@@ -1,0 +1,3 @@
+/home/pi/Payload_SDK_V2.2.1-build.315-raspi/sample/platform/linux/manifold2/project/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Payload_SDK_V2.2.1-build.315-raspi/sample/platform/linux/manifold2/project/build/CMakeFiles/psdk_demo.dir
+/home/pi/Payload_SDK_V2.2.1-build.315-raspi/sample/platform/linux/manifold2/project/build/CMakeFiles/edit_cache.dir

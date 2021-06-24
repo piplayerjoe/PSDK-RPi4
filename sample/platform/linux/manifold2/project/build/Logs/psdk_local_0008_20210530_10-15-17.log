@@ -1,0 +1,156 @@
+[3163447.227][module_core]-[32m[Info]-[PsdkCore_Init:76]Payload SDK Version : V2.2.1-beta.0-build.315[0m
+[3163447.239][module_core]-[32m[Info]-[PsdkCore_WaitAdapterConnection:234]Connect to Skyport V2 or X-Port success[0m
+[3163447.249][module_core]-[32m[Info]-[PsdkCore_PrintAdapterSerialNumber:278]Get serial number of Skyport V2 or X-Port is 39CDH6P0010077[0m
+[3163447.249][module_core]-[32m[Info]-[PsdkCore_Init:130]Updating PSDK policy file.[0m
+[3163447.269][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_GetAircraftTypeAsyncCallback:402]aircraft type is Matrice 300 RTK.[0m
+[3163447.270][module_aircraftinfo]-[32m[Info]-[PsdkAircraftInfo_GetDevelopmentKitTypeAsyncCallback:483]PSDK adapter type is Skyport V2.[0m
+[3163448.250][module_core]-[32m[Info]-[PsdkCore_Init:133]PSDK policy file update success.[0m
+[3163448.750][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163449.250][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163449.751][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163450.251][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163450.284][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163450.751][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163451.251][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163451.286][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163451.751][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163452.251][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163452.287][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163452.308][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163452.752][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163453.252][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163453.289][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163453.289][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163453.309][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163453.752][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163454.252][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163454.311][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163454.331][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163454.752][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163455.253][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163455.313][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163455.313][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163455.333][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163455.753][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163456.253][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163456.335][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163456.356][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163456.753][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163457.253][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163457.337][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163457.337][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163457.361][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163457.754][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163458.254][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163458.363][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163458.383][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163458.754][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163459.254][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163459.364][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163459.365][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163459.385][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163459.754][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163460.255][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163460.386][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163460.407][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163460.755][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163461.256][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163461.388][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163461.389][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163461.409][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163461.757][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163462.257][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163462.410][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163462.431][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163462.758][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163463.258][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163463.412][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163463.412][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163463.433][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163463.758][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163464.259][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163464.435][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163464.455][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163464.760][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163465.261][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163465.437][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163465.437][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163465.457][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163465.762][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163466.262][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163466.459][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163466.479][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163466.762][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163467.263][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163467.460][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163467.464][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163467.484][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163467.763][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163468.263][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163468.486][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163468.507][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163468.763][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163469.263][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163469.488][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163469.488][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163469.508][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163469.764][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163470.264][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163470.510][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163470.530][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163470.764][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163471.264][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163471.512][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163471.512][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163471.532][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163471.764][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163472.265][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163472.534][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163472.558][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163472.765][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163473.265][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163473.539][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163473.539][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163473.560][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163473.765][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163474.265][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163474.561][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163474.581][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163474.766][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163475.266][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163475.563][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163475.563][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163475.583][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163475.766][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163476.266][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163476.585][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163476.605][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163476.766][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163477.266][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163477.586][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163477.590][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163477.611][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163477.767][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163478.267][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163478.612][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163478.632][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163478.767][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163479.267][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163479.614][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 1[0m
+[3163479.614][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163479.635][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163479.767][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163480.268][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163480.637][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163480.657][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163480.768][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163481.268][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163481.638][module_command]-[31m[Error]-[PsdkCommand_SendASyncHandle:866]Command async send error 0[0m
+[3163481.638][module_aircraftinfo]-[33m[Warn]-[PsdkAircraftInfo_GetPayloadMountPositionAsyncCallback:597]get payload mount position timeout.[0m
+[3163481.659][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 2, cmdSet = 25, cmdId = 50[0m
+[3163481.768][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163482.268][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163482.660][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 1, retryTimes = 1, cmdSet = 25, cmdId = 50[0m
+[3163482.684][module_command]-[33m[Warn]-[PsdkCommand_SendASyncHandle:858]Command async send retry: index = 0, retryTimes = 3, cmdSet = 25, cmdId = 50[0m
+[3163482.769][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
+[3163483.269][module_core]-[32m[Info]-[PsdkCore_Init:146]PSDK is connecting aircraft.[0m
