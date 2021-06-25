@@ -117,7 +117,7 @@ T_PsdkReturnCode PsdkTest_PowerManagementInit(void)
 }
 
 /* Private functions definition-----------------------------------------------*/
-static T_PsdkReturnCode PsdkTest_PowerOffNotificationCallback(bool *powerOffPreparationFlag)
+static T_PsdkReturnCode PsdkTest_PowerOffNotificationCallback(bool *powerOffPreparationFlag)//构造回调函数，自定义
 {
     PsdkLogger_UserLogDebug("aircraft will power off soon.");
 

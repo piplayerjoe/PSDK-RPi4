@@ -89,7 +89,7 @@ static FILE *s_psdkLogFileCnt;
 static pthread_t s_monitorThread = 0;
 
 /* Private functions definition-----------------------------------------------*/
-static T_PsdkReturnCode PsdkUser_FillInUserInfo(T_PsdkUserInfo *userInfo)
+static T_PsdkReturnCode PsdkUser_FillInUserInfo(T_PsdkUserInfo *userInfo)//填写开发者信息、应用信息
 {
     memset(userInfo->appName, 0, sizeof(userInfo->appName));
     memset(userInfo->appId, 0, sizeof(userInfo->appId));
@@ -134,7 +134,7 @@ static T_PsdkReturnCode PsdkUser_Console(const uint8_t *data, uint16_t dataLen)
     return PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS;
 }
 
-static T_PsdkReturnCode PsdkUser_LocalWrite(const uint8_t *data, uint16_t dataLen)
+static T_PsdkReturnCode PsdkUser_LocalWrite(const uint8_t *data, uint16_t dataLen)//
 {
     int32_t realLen;
 
@@ -151,7 +151,7 @@ static T_PsdkReturnCode PsdkUser_LocalWrite(const uint8_t *data, uint16_t dataLe
     }
 }
 
-static T_PsdkReturnCode PsdkUser_FileSystemInit(const char *path)
+static T_PsdkReturnCode PsdkUser_FileSystemInit(const char *path)//文件系统初始化
 {
     T_PsdkReturnCode psdkStat = PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS;
     char filePath[PSDK_LOG_PATH_MAX_SIZE];
@@ -228,7 +228,7 @@ static T_PsdkReturnCode PsdkUser_FileSystemInit(const char *path)
     return psdkStat;
 }
 
-static void PsdkUser_NormalExitHandler(int signalNum)
+static void PsdkUser_NormalExitHandler(int signalNum)//正常关机通知
 {
     USER_UTIL_UNUSED(signalNum);
     exit(0);
@@ -352,12 +352,12 @@ int main(void)
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
-    if (PsdkLogger_AddConsole(&printConsole) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (PsdkLogger_AddConsole(&printConsole) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {//添加控制台监视
         printf("psdk add console print error");
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
-    if (PsdkUser_FileSystemInit(PSDK_LOG_PATH) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (PsdkUser_FileSystemInit(PSDK_LOG_PATH) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {//filesystem init
         printf("psdk file system init error");
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
@@ -377,7 +377,7 @@ int main(void)
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
-    if (PsdkProductInfo_SetAlias("PSDK_APPALIAS") != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (PsdkProductInfo_SetAlias("psdk_test"/*"PSDK_APPALIAS"*/) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("set product alias error.");
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
@@ -444,7 +444,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_GIMBAL_EMU
+#ifdef PSDK_USING_GIMBAL_EMU//using skyportv2
     if (aircraftBaseInfo.psdkAdapterType == PSDK_AIRCRAFT_INFO_PSDK_ADAPTER_TYPE_SKYPORT_V2) {
         if (PsdkTest_GimbalInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
             PsdkLogger_UserLogError("psdk gimbal init error");
