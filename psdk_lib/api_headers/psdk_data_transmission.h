@@ -43,6 +43,7 @@ extern "C" {
  * @brief Prototype of callback function used to receive data that come from mobile end.
  * @warning User can not execute blocking style operations or functions in callback function, because that will block PSDK
  * root thread, causing problems such as slow system response, payload disconnection or infinite loop.
+ *  为防止阻塞PSDK 主线程，导致负载设备响应缓慢、断连或死循环等问题，请在回调函数中以阻塞式的方式使用此函数。
  * @param data: pointer to data.
  * @param len: length of data.
  * @return Execution result.
@@ -51,8 +52,10 @@ typedef T_PsdkReturnCode (*ReceiveDataFromMobileCallback)(const uint8_t *data, u
 
 /**
  * @brief Prototype of callback function used to receive data that come from onboard computer.
+ * 用于接收从机载计算机发送的数据的回调函数的原型
  * @warning User can not execute blocking style operations or functions in callback function, because that will block PSDK
  * root thread, causing problems such as slow system response, payload disconnection or infinite loop.
+ *  为防止阻塞PSDK 主线程，导致负载设备响应缓慢、断连或死循环等问题，请在回调函数中以阻塞式的方式使用此函数。
  * @param data: pointer to data.
  * @param len: length of data.
  * @return Execution result.
@@ -63,6 +66,7 @@ typedef T_PsdkReturnCode (*ReceiveDataFromOsdkCallback)(const uint8_t *data, uin
 /**
  * @brief Initialise data transmission module in block mode. Should call this function before sending data to mobile
  * end/onboard computer or receiving data.
+ * 初始化数据传输模块，注意：最大执行时间略大于500ms
  * @note Max execution time of this function is slightly larger than 500ms.
  * @return Execution result.
  */
@@ -79,6 +83,7 @@ T_PsdkReturnCode PsdkDataTransmission_DeInit(void);
 /**
  * @brief Register callback function used to receive data from mobile end. After registering this callback function,
  * callback function will be called automatically when system receive data from mobile end.
+ * 注册用于接收从移动端app发送的数据的回调函数，回调函数会自动回调当系统从移动端接收数据
  * @param callback: pointer to callback function.
  * @return Execution result.
  */
@@ -87,7 +92,9 @@ T_PsdkReturnCode PsdkDataTransmission_RegReceiveDataFromMobileCallback(ReceiveDa
 /**
  * @brief Register callback function used to receive data from onboard computer. After registering this callback
  * function, callback function will be called automatically when system receive data from onboard computer.
+ * 注册用于接收从机载计算机发送的数据的回调函数，回调函数会自动回调当系统从机载计算机接收数据
  * @param callback: pointer to callback function.
+ * 参数：callback，指向回调函数的指针
  * @return Execution result.
  */
 T_PsdkReturnCode PsdkDataTransmission_RegReceiveDataFromOsdkCallback(ReceiveDataFromOsdkCallback callback);
@@ -149,11 +156,11 @@ T_PsdkReturnCode PsdkDataTransmission_GetSendToMobileState(T_PsdkDataChannelStat
 T_PsdkReturnCode PsdkDataTransmission_GetSendToOsdkState(T_PsdkDataChannelState *state);
 
 /**
- * @brief Get the network remote address for sending data stream.
+ * @brief Get the network remote address for sending data stream.供rtos使用，非linux使用
  * @note The interface is used to get the network remote address for sending data stream. You can get this info for another
  * heterogeneous system to do somethings. This interface should be used after calling PsdkCore_Init function.
- * @param ipAddr: the remote ip address for sending data stream.
- * @param port: the remote port for sending data stream.
+ * @param ipAddr: the remote ip address for sending data stream.指向发送端ip地址
+ * @param port: the remote port for sending data stream.指向发送端端口
  * @return Execution result.
  */
 T_PsdkReturnCode PsdkDataTransmission_GetDataStreamRemoteAddress(char *ipAddr, uint16_t *port);

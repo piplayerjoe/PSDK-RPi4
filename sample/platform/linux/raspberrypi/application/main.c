@@ -377,7 +377,7 @@ int main(void)
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
-    if (PsdkProductInfo_SetAlias("psdk_test"/*"PSDK_APPALIAS"*/) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (PsdkProductInfo_SetAlias("psdk_test"/*"PSDK_APPALIAS"*/) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {//设置psdk别称
         PsdkLogger_UserLogError("set product alias error.");
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
@@ -387,7 +387,7 @@ int main(void)
         return PSDK_ERROR_SYSTEM_MODULE_CODE_UNKNOWN;
     }
 
-#ifdef PSDK_USING_POWER_MANAGEMENT
+#ifdef PSDK_USING_POWER_MANAGEMENT// 电源管理功能
     if (PsdkTest_PowerManagementInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("power management init error");
     }
@@ -426,7 +426,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_PAYLOAD_COLLABORATION
+#ifdef PSDK_USING_PAYLOAD_COLLABORATION// 云台协同功能
     if (((aircraftBaseInfo.aircraftType == PSDK_AIRCRAFT_INFO_TYPE_M200_V2 ||
           aircraftBaseInfo.aircraftType == PSDK_AIRCRAFT_INFO_TYPE_M210_V2 ||
           aircraftBaseInfo.aircraftType == PSDK_AIRCRAFT_INFO_TYPE_M210RTK_V2) &&
@@ -452,7 +452,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_XPORT
+#ifdef PSDK_USING_XPORT// 使用xport
     if (aircraftBaseInfo.psdkAdapterType == PSDK_AIRCRAFT_INFO_PSDK_ADAPTER_TYPE_XPORT) {
         if (PsdkTest_XPortInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
             PsdkLogger_UserLogError("psdk XPort init error");
@@ -460,7 +460,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_UPGRADE
+#ifdef PSDK_USING_UPGRADE//本地升级功能
     T_PsdkTestUpgradePlatformOpt linuxUpgradePlatformOpt = {
         .rebootSystem = PsdkUpgradePlatformLinux_RebootSystem,
         .cleanUpgradeProgramFileStoreArea = PsdkUpgradePlatformLinux_CleanUpgradeProgramFileStoreArea,
