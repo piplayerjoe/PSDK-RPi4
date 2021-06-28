@@ -228,7 +228,7 @@ static T_PsdkReturnCode PsdkUser_FileSystemInit(const char *path)//文件系统�
     return psdkStat;
 }
 
-static void PsdkUser_NormalExitHandler(int signalNum)//正常关机通知
+static void PsdkUser_NormalExitHandler(int signalNum)//正常退出、关机通知
 {
     USER_UTIL_UNUSED(signalNum);
     exit(0);
@@ -407,21 +407,21 @@ int main(void)
 #endif
 #endif
 
-#ifdef PSDK_USING_DATA_TRANSMISSION
+#ifdef PSDK_USING_DATA_TRANSMISSION//初始化数据传输
     if (PsdkTest_DataTransmissionInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("psdk data transmission init error");
     }
 #endif
 
 #ifdef PSDK_USING_DATA_CHANNEL
-    if (PsdkTest_DataChannelSetBandwidthProportionForHighspeedChannel(
+    if (PsdkTest_DataChannelSetBandwidthProportionForHighspeedChannel(//设置带宽比例
         bandwidthProportionOfHighspeedChannel) != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("set bandwidth distribution for high-speed channel error");
     }
 #endif
 
 #ifdef PSDK_USING_DATA_SUBSCRIPTION
-    if (PsdkTest_DataSubscriptionInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
+    if (PsdkTest_DataSubscriptionInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {//订阅消息初始化
         PsdkLogger_UserLogError("psdk data subscription init error");
     }
 #endif
@@ -478,7 +478,7 @@ int main(void)
     }
 #endif
 
-#ifdef PSDK_USING_MOP_CHANNEL
+#ifdef PSDK_USING_MOP_CHANNEL//    mop：msdk\osdk\psdk互联互通，仅linux开发平台下可用
     if (PsdkTest_MopChannelInit() != PSDK_ERROR_SYSTEM_MODULE_CODE_SUCCESS) {
         PsdkLogger_UserLogError("psdk mop channel init error");
     }

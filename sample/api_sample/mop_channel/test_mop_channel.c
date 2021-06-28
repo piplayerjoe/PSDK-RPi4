@@ -25,7 +25,7 @@
  */
 
 /* Includes ------------------------------------------------------------------*/
-#if PSDK_ARCH_SYS_LINUX
+#if PSDK_ARCH_SYS_LINUX//    mop：msdk\osdk\psdk互联互通，仅linux开发平台下可用
 
 #include <utils/util_misc.h>
 #include <stdio.h>

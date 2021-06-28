@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "test_data_transmission.h": "c",
+        "test_data_subscription.h": "c",
+        "psdk_mop_channel.h": "c",
+        "psdk_logger.h": "c",
+        "test_widget.h": "c"
+    }
+}

@@ -29,7 +29,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "psdk_typedef.h"
 
-#if PSDK_ARCH_SYS_LINUX
+#if PSDK_ARCH_SYS_LINUX//    mop：msdk\osdk\psdk互联互通，仅linux开发平台下可用
 
 #ifdef __cplusplus
 extern "C" {
