@@ -10,7 +10,7 @@ set(CMAKE_CXX_COMPILER "g++")
 
 set(PSDK_ARCH_SYS linux)
 
-include_directories(..)
+include_directories(..)//include修改
 include_directories(../../common)
 include_directories(../../../../api_sample)
 include_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/api_headers)
@@ -45,8 +45,8 @@ elseif (DEVICE_SYSTEM_ID MATCHES aarch64)
     link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/aarch64-linux-gnu-gcc)
     link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/aarch64-linux-gnu-gcc/libpayloadsdk.a)
 endif ()
-link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc)
-link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc/libpayloadsdk.a)
+link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc)//修改路径
+link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc/libpayloadsdk.a)//修改路径
 ## Outputs
 add_executable(${CMAKE_PROJECT_NAME}
         ${APP_SRC}
