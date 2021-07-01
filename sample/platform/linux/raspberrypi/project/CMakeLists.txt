@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8)
-project(psdk_demo C)
+project(psdk_test C)
 
 ### Set toolchain flags
 set(CMAKE_C_FLAGS "-D_REENTRANT -std=gnu99")
@@ -10,14 +10,14 @@ set(CMAKE_CXX_COMPILER "g++")
 
 set(PSDK_ARCH_SYS linux)
 
-include_directories(..)//include修改
+include_directories(..)##include修改
 include_directories(../../common)
 include_directories(../../../../api_sample)
 include_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/api_headers)
 
 ## Srcs
-file(GLOB_RECURSE APP_SRC ../../manifold2/application/*.c
-        ../../manifold2/hal/*.c)
+file(GLOB_RECURSE APP_SRC ../../raspberrypi/application/*.c
+        ../../raspberrypi/hal/*.c)
 file(GLOB_RECURSE COMMON_SRC ../../common/*.c)
 file(GLOB_RECURSE SAMPLE_SRC ../../../../api_sample/*.c)
 
@@ -45,8 +45,8 @@ elseif (DEVICE_SYSTEM_ID MATCHES aarch64)
     link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/aarch64-linux-gnu-gcc)
     link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/aarch64-linux-gnu-gcc/libpayloadsdk.a)
 endif ()
-link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc)//修改路径
-link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc/libpayloadsdk.a)//修改路径
+link_directories(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc)##修改路径
+link_libraries(${CMAKE_CURRENT_LIST_DIR}/../../../../../psdk_lib/lib/arm-linux-gnueabihf-gcc/libpayloadsdk.a)##修改路径
 ## Outputs
 add_executable(${CMAKE_PROJECT_NAME}
         ${APP_SRC}

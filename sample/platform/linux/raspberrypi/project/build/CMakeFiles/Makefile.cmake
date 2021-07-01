@@ -41,5 +41,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/psdk_demo.dir/DependInfo.cmake"
+  "CMakeFiles/psdk_test.dir/DependInfo.cmake"
   )

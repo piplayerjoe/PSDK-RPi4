@@ -1,4 +1,4 @@
-# Install script for directory: /home/pi/Payload_SDK_V2.2.1-build.315-raspi/sample/platform/linux/raspberrypi/project
+# Install script for directory: /home/pi/psdk-71/sample/platform/linux/raspberrypi/project
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/pi/Payload_SDK_V2.2.1-build.315-raspi/sample/platform/linux/raspberrypi/project/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/pi/psdk-71/sample/platform/linux/raspberrypi/project/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
